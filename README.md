@@ -1,7 +1,7 @@
 # Hey, my name is Alexander 👋 
 
 
-## I'm a Comupter Science Student in the Lebanese American University
+## I'm a Comupter Science Student at the Lebanese American University
 
 
 - 🌱 I’m currently learning and improving my skills 
