@@ -1,12 +1,7 @@
 # Hey, my name is Alexander 👋 
 
-
-## I'm a Comupter Science Student at the Lebanese American University
-
-
-- 🌱 I’m currently learning and improving my skills 
-- 🥅 2022 Goals: master my skills in full stack development
-- ⚡ I'm also a big fan of competative gaming
+- 🌱 I’m constantly learning and improving my skills 
+- 🥅 2023 Goals: master my skills in full stack development
 
 ### Languages and Tools:
 
