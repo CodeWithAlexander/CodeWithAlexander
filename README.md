@@ -1,8 +1,6 @@
-# Hey, my name is Alexander 👋 
+# Hey, Alex here👋 
 
 - 🌱 I’m constantly learning and improving my skills 
-- 🥅 2023 Goals: master my skills in full stack development
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
